@@ -16,3 +16,5 @@ const Products: NextPage = () => {
     </>
   )
 }
+
+export default Products
